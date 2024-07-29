@@ -1,0 +1,38 @@
+[
+    {
+        "id": "101",
+        "name": "Formal Shoes",
+        "category_id": "1",
+        "price": 2599.0
+    },
+    {
+        "id": "102",
+        "name": "Casual Shoes",
+        "category_id": "1",
+        "price": 2399.0
+    },
+    {
+        "id": "201",
+        "name": "Shirt",
+        "category_id": "2",
+        "price": 999.0
+    },
+    {
+        "id": "202",
+        "name": "Jeans",
+        "category_id": "2",
+        "price": 1599.0
+    },
+    {
+        "id": "301",
+        "name": "Smart Phones",
+        "category_id": "3",
+        "price": 15999.0
+    },
+    {
+        "id": "303",
+        "name": "Headphone",
+        "category_id": "3",
+        "price": 2999.0
+    }
+]
